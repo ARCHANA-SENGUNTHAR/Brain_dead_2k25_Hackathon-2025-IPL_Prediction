@@ -37,16 +37,18 @@ We’ve used **IPL match & player statistics** over multiple seasons. 📑 Inclu
 💡 **200+ Target Chases** – Is T20 becoming a batting paradise? 🔥  
 
 ## 📌 **How to Run**  
-1️⃣ **Clone this repo:**  
+1️⃣ **Clone this repo:** 
+
    ```bash
    git clone https://github.com/your-repo/IPL-Prediction.git
    cd IPL-Prediction
+2️⃣ **Install dependencies:**  
 
-2️⃣ **Install dependencies:**
 ```bash
 pip install -r requirements.txt
 
 3️⃣ Run the Jupyter Notebook or Python scripts and start analyzing! 🚀
+
 🎉 Future Enhancements
 🔹 Live IPL Data Integration – Predict matches in real-time! 🌍
 🔹 Better ML Algorithms – Explore Deep Learning & Neural Networks 🧠
